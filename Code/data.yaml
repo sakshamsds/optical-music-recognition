@@ -1,0 +1,9 @@
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 3
+names:
+  0: half
+  1: quarter
+  2: whole
