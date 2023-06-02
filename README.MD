@@ -1,3 +1,5 @@
+This project reads muscial notes from a sheet and plays it.
+
 To execute the project, please follow the following steps:
 1. First install the requrired libraries using the './requirements.txt' file.
 2. Run the python notebook './Code/train.ipynb' to train the 'YOLOv8x' model on the custom dataset. The custom dataset is pre-annotated and has already been divided into train, validation, and test splits. Results from training are saved under './Code/runs' directory.
