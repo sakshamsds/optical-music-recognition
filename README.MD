@@ -8,3 +8,6 @@ To execute the project, please follow the following steps:
 3. Once the training is complete, run './Code/detect_rois.py'. This will take an input image and save the detected notes and ROIs as PNG images in the './Code/results' directory.
 4. Next, load and run the './Code/detect_staff_line.py' file. This step uses the results from step 2 to predict the corresponding staff lines and save the notes in a text file as './Code/results/detected_notes.txt'. The musical notes are labeled based on their duration and position on the staff.
 5. Finally, run the './Code/play.py' file to read the results from step 3 and play the music using the midiutil and pygame library.
+
+<img width="1202" alt="image" src="https://github.com/sakshamsds/optical-music-recognition/assets/42541692/baad6d3d-2322-48bd-8524-98a818bfb737">
+<img width="1199" alt="image" src="https://github.com/sakshamsds/optical-music-recognition/assets/42541692/8fc51882-b943-449c-8074-339809374553">
